@@ -23,6 +23,11 @@ Depends on jQuery event "onChange"
       <option value="3">3</option>
       <option value="4">4</option>
     </select>
+    
 ###JS
 
     $('select.get').getBySelect();
+
+###Result example
+
+    "...some_url...?name1=&name2=4"
