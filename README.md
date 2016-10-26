@@ -2,9 +2,13 @@
 
 jQuery plugin: reloading page with GET parameters by Select change
 
+Change page URL by Selects' changes with GET parameters according to name->value from current Select and chosen Option
+
+Depends on jQuery event "onChange"
+
 ##Required
 
-####URI.js - downlaod from <a href="http://medialize.github.io/URI.js/build.html">here</a>
+####URI.js - download from <a href="http://medialize.github.io/URI.js/build.html">here</a>
 
 ##Example
 
