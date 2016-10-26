@@ -2,6 +2,10 @@
 
 jQuery plugin: reloading page with GET parameters by Select change
 
+##Required
+
+###URI.js - downlaod from <a href="http://medialize.github.io/URI.js/build.html">here</a>
+
 ##Example
 
 ###HTML
