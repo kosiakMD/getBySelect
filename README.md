@@ -30,4 +30,4 @@ Depends on jQuery event "onChange"
 
 ###Result example
 
-    "...some_url...?name1=&name2=4"
+    "...some_url...?name1=2&name2=4"
