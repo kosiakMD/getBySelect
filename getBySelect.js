@@ -9,7 +9,7 @@
       var uri = new URI(location.href);
       //console.log(uri.toString())
     }catch(er){
-    	message = ' \r\n  Conect "URI" Library by http://medialize.github.io/URI.js/build.html';
+    	message = ' \r\n  Conect "URI.js" Library by http://medialize.github.io/URI.js/build.html';
 			console.log(er + message);
 			alert(er + message);
     }
