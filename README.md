@@ -4,4 +4,17 @@ jQuery plugin: reloading page with GET parameters by Select change
 
 ##Example
 
-    $('.get').getBySelect();
+###HTML
+
+    <select class="get" name="name1">
+      <option value="1">1</option>
+      <option value="2">2</option>
+    </select>
+
+    <select class="get" name="name2">
+      <option value="3">3</option>
+      <option value="4">4</option>
+    </select>
+###JS
+
+    $('select.get').getBySelect();
